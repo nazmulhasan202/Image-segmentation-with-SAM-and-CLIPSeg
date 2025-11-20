@@ -1,6 +1,6 @@
 # Image Segmentation with SAM and CLIPSeg
 
-This repository contains scripts and Jupyter notebooks for segmenting grayscale images using two models: the Segment Anything Model (SAM) and CLIPSeg. Both workflows generate segmentation masks, store the outputs in structured folders, and record timing statistics for each image.
+This repository contains scripts and Jupyter notebooks for segmenting sample melt pool images (from a metal 3D printing process called Laser Powder Bed Fusion) using two models: the Segment Anything Model (SAM) and CLIPSeg. Both workflows generate segmentation masks, store the outputs in structured folders, and record timing statistics for each image.
 
 ## Folder Structure
 
